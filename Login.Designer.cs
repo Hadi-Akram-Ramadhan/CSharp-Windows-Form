@@ -73,6 +73,7 @@
             this.txbID.Name = "txbID";
             this.txbID.Size = new System.Drawing.Size(406, 20);
             this.txbID.TabIndex = 3;
+            this.txbID.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txbID_KeyPress);
             // 
             // txbPass
             // 
@@ -81,6 +82,7 @@
             this.txbPass.Size = new System.Drawing.Size(406, 20);
             this.txbPass.TabIndex = 4;
             this.txbPass.UseSystemPasswordChar = true;
+            this.txbPass.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txbPass_KeyPress);
             // 
             // BtnClear
             // 
