@@ -1,0 +1,11 @@
+C:\Users\kkhad\source\repos\siapa\siapa\bin\Debug\siapa.exe.config
+C:\Users\kkhad\source\repos\siapa\siapa\bin\Debug\siapa.exe
+C:\Users\kkhad\source\repos\siapa\siapa\bin\Debug\siapa.pdb
+C:\Users\kkhad\source\repos\siapa\siapa\obj\Debug\siapa.csproj.AssemblyReference.cache
+C:\Users\kkhad\source\repos\siapa\siapa\obj\Debug\siapa.Properties.Resources.resources
+C:\Users\kkhad\source\repos\siapa\siapa\obj\Debug\siapa.csproj.GenerateResource.cache
+C:\Users\kkhad\source\repos\siapa\siapa\obj\Debug\siapa.csproj.CoreCompileInputs.cache
+C:\Users\kkhad\source\repos\siapa\siapa\obj\Debug\siapa.exe
+C:\Users\kkhad\source\repos\siapa\siapa\obj\Debug\siapa.pdb
+C:\Users\kkhad\source\repos\siapa\siapa\obj\Debug\siapa.MyApp.resources
+C:\Users\kkhad\source\repos\siapa\siapa\obj\Debug\siapa.LoginForm.resources
